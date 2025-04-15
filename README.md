@@ -33,7 +33,7 @@ Tag karo, aur AI-generated savage roast ka maza lo!
 
 4.	**Run The Bot**
   	```bash
-     python main.py
+     python3 main.py
     ```
 
 ---
