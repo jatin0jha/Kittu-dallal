@@ -17,7 +17,7 @@ Tag karo, aur AI-generated savage roast ka maza lo!
 
 1. **Clone This Repo**
    ```bash
-   git clone https://github.com/tera-username/roast-bot.git
+   git clone https://github.com/jatin0jha/Kittu-dallal.git
    cd roast-bot
    ```
 
